@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 466px;
+  min-height: 535px;
 }
 
 .u-section-1 .u-text-1 {
@@ -47,13 +47,13 @@
 .u-section-1 .u-text-5 {
   font-weight: 700;
   width: 803px;
-  margin: 20px 169px 0;
+  margin: 13px auto 0;
 }
 
 .u-section-1 .u-text-6 {
-  width: 803px;
   font-size: 1.125rem;
-  margin: 28px 169px 20px;
+  width: 803px;
+  margin: 35px auto 20px;
 }
 
 .u-section-1 .u-btn-4 {
@@ -75,16 +75,6 @@
   .u-section-1 .u-text-3 {
     margin-left: 69px;
     margin-right: 69px;
-  }
-
-  .u-section-1 .u-text-5 {
-    margin-left: 69px;
-    margin-right: 69px;
-  }
-
-  .u-section-1 .u-text-6 {
-    margin-left: 69px;
-    margin-right: 68px;
   }
 }
 
@@ -109,14 +99,10 @@
 
   .u-section-1 .u-text-5 {
     width: 720px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-1 .u-text-6 {
     width: 720px;
-    margin-left: 0;
-    margin-right: 0;
   }
 }
 
